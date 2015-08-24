@@ -21,9 +21,6 @@
  *  \brief			Code for actions on sending mails from object page
  */
 
-/*
- * TEST 2-1
- */
 
 // TODO Include this include file into all element pages allowing email sending
 
